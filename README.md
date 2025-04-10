@@ -7,7 +7,7 @@ This project is a custom Maven archetype for quickly bootstrapping new Spring Bo
 ## 📘 Full Setup Guide (Notion)
 
 📄 A complete guide for installation, usage, and customization is available on Notion:  
-👉 [View the Installation Guide on Notion](https://www.notion.so/your-notion-page-link-here)
+👉 [View the Installation Guide on Notion](https://www.notion.so/irembo/Irembo-Maven-Archetype-1d14e31d0fcf80e98bf0e4c15459f746?pvs=4)
 
 ---
 
