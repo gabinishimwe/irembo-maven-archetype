@@ -33,7 +33,7 @@ under the License.
     </requiredProperty>
     <requiredProperty key="artifactId"/>
     <requiredProperty key="groupId">
-      <defaultValue>com.irembo.project</defaultValue>
+      <defaultValue>com.irembo</defaultValue>
     </requiredProperty>
 
     <requiredProperty key="java-version">
