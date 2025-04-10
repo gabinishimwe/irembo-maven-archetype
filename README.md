@@ -25,7 +25,7 @@ This project is a custom Maven archetype for quickly bootstrapping new Spring Bo
 To install the archetype locally (make it available in your local Maven cache):
 
 ```bash
-git clone https://github.com/your-org/irembo-archetype.git
+git clone https://github.com/gabinishimwe/irembo-maven-archetype.git
 cd irembo-archetype
 mvn clean install -Darchetype.test.skip=true
 ```
